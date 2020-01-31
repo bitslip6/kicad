@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73831T-4ADI_OT
+D Battery Management Li-Ion/Li-Poly Charg Mgnt 4.4V Vreg out
+K
+F https://componentsearchengine.com/Datasheets/1/MCP73831T-4ADI_OT.pdf
+$ENDCMP
+#
+#End Doc Library
