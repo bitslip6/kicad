@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MCP73833-AMI_UN
-D Microchip MCP73833-AMI/UN, Battery Charge Controller Lithium-Ion, Lithium-Polymer, 10-Pin MSOP
-K
-F http://componentsearchengine.com/Datasheets/1/MCP73833-AMI_UN.pdf
-$ENDCMP
-#
-#End Doc Library
