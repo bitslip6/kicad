@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP73833_AMI_UN'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "ALLIED_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP73833-AMI/UN" (!) = "", "SOP50P490X110-10N", "Small Outline Packages", "579-MCP73833-AMI/UN", "https://www.mouser.com/Search/Refine.aspx?Keyword=579-MCP73833-AMI%2FUN", "7386373P", "http://uk.rs-online.com/web/p/products/7386373P", "70046200", "https://www.alliedelec.com/microchiptechnologyinc-mcp73833-ami-un/70046200/", "Microchip MCP73833-AMI/UN, Battery Charge Controller Lithium-Ion, Lithium-Polymer, 10-Pin MSOP", "http://componentsearchengine.com/Datasheets/1/MCP73833-AMI_UN.pdf", "1.1 mm"
+END_PART
+
+END.
